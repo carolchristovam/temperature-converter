@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">temperature-converter</string>
+    <string name="temperature_converter">Temperature converter</string>
+    <string name="temperature_in_c">Temperature in °C</string>
+    <string name="apply_to_convert">Apply to convert</string>
+    <string name="textview">TextView</string>
 </resources>
